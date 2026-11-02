@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mauro and I'm a Software Engineer Apprentice based in Paris.</h2>
+<h2 align="left">Hey, I'm Mauro and I'm a Software Engineer based in Paris.</h2>
 
 <img align="right" height="150" src="https://media1.tenor.com/m/8S_CuT8s2_oAAAAC/bruce-almighty-comedy.gif"  />
 
